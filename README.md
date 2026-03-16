@@ -2,7 +2,7 @@
 **A Defense of a Weak Classical Approach**
 
 **Author:** Johan Mårtensson
-**Date:** March 27, 2000
+**Date:** November 1999
 **Published by:** Acta Universitatis Gothoburgensis, Göteborg
 **ISBN:** 91-7346-365-5 | **ISSN:** 0283-2380
 
