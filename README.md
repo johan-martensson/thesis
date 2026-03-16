@@ -14,8 +14,8 @@ This thesis examines the semantic and logical properties of subjunctive conditio
 
 In particular, the following principles are challenged:
 
-- **(CSO)** `((A ⇒ B) ∧ (B ⇒ A)) → ((A ⇒ C) ↔ (B ⇒ C))` — a principle present in nearly every current axiomatization of conditional logic
-- **(CV)** `((A ⇒ C) ∧ (A ⇏ ¬B)) → ((A ∧ B) ⇒ C)`
+- **(CSO)** `((A □→ B) ∧ (B □→ A)) → ((A □→ C) ↔ (B □→ C))` — a principle present in nearly every current axiomatization of conditional logic
+- **(CV)** `((A □→ C) ∧ (A ◇→ B)) → ((A ∧ B) □→ C)`
 
 The thesis argues that CSO's inclusion stems from a fixed, context-relative notion of *closeness* between possible worlds. Instead, an **antecedent-relative** notion of closeness is proposed, defined in causal terms. The formal consequences are developed into a complete semantics and axiomatic system with desirable intuitive properties.
 
