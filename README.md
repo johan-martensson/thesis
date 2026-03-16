@@ -43,3 +43,25 @@ The thesis argues that CSO's inclusion stems from a fixed, context-relative noti
 ## Supervisor
 
 Dag Westerståhl (University of Gothenburg)
+
+---
+
+## Keywords
+
+**Core topic**
+subjunctive conditionals · counterfactuals · conditional logic · philosophy of language
+
+**Semantics**
+possible worlds semantics · relative closeness semantics · antecedent-relative closeness semantics · class selection semantics · facts revision semantics · hyperintensional semantics · truth conditions for conditionals
+
+**Logic & formal systems**
+conditional axiomatization · soundness and completeness · modal logic · CSO principle · CV principle · half-normal logics · axiomatic system AR'
+
+**Key concepts**
+causal trail criterion · antecedent-relative ordering · world-closeness · cotenability · undercutting · historical conservativity · late departure criterion · temporal worlds · historically possible worlds
+
+**Related figures**
+David Lewis · Robert Stalnaker · Nelson Goodman · John Pollock · Jonathan Bennett
+
+**Broader fields**
+philosophy of logic · metaphysics · causation and conditionals · belief revision · indicative vs subjunctive conditionals
